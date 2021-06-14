@@ -122,6 +122,8 @@ Following is the Data Dictionary for Credit Card dataset :
 
 `TENURE :` Tenure of credit card service for user
 
+Dataset link: https://www.kaggle.com/arjunbhasin2013/ccdata
+
 # Conclusion
 
 Different actions can be taken according to the 6 clusters we have separated. For example,(for `Cluster3`) we can encourage users who shop in installments by increasing their special installment options or (for `Cluster2`), customers who withdraw and spend cash can be provided with low commission cash via credit card or (for `Cluster5`) we can increase their loyalty with special offers for people with high limits and all kinds of spending.
