@@ -1,4 +1,4 @@
-# K-Means Customer Segmentation (due to cradit card bheaviour)
+# K-Means Customer Segmentation (due to cradit card behaviour)
 
 # About Porject
 
